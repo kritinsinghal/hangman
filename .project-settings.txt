@@ -1,0 +1,1 @@
+#hasheq((most_recently_used . "q4") (q2_most_recently_used . "q2/doublewordsquare.c") (q2_runner_file . "q2/test-doublewordsquare.c") (q4_most_recently_used . "q4/hangman.c") (q4_runner_file . "q4/hangman.c"))
